@@ -16,7 +16,7 @@
   
   <servlet-mapping>
   	<servlet-name>Go_Servlet</servlet-name>
-  	<url-pattern>/servlet.so</url-pattern>
+  	<url-pattern>/servlet.do</url-pattern>
   </servlet-mapping>
   
   <listener>
