@@ -19,4 +19,8 @@
   	<url-pattern>/servlet.so</url-pattern>
   </servlet-mapping>
   
+  <listener>
+  	<listener-class>com.example.listener.MyHttpSessionAttributeListener</listener-class>
+  </listener>
+  
 </web-app>
